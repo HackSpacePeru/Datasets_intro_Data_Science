@@ -3799,3 +3799,203 @@ ID01583,Femenino,0.0,Si,Si,22.0,Si,Si,Fibra Optica,No,No,No,No,No,No,Mes a mes,S
 ID04280,Masculino,1.0,No,No,15.0,Si,Si,Fibra Optica,No,No,No,No,No,No,Mes a mes,No,Checke por correo,75.65,1146.65,1
 ID05403,Masculino,1.0,Si,No,65.0,Si,Si,Fibra Optica,Si,No,No,No,Si,Si,Anual,Si,Checke por correo,100.75,6674.65,0
 ID02672,Femenino,0.0,Si,No,72.0,Si,Si,Fibra Optica,Si,Si,Si,Si,Si,Si,Bianual,Si,Tarjeta de credito (automatico),115.5,,0
+ID05641,Masculino,0.0,No,Si,40.0,Si,No,DSL,Si,Si,No,No,No,No,Mes a mes,Si,Checke electronico,55.25,2139.2,1
+ID04573,Femenino,,No,No,30.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,99.7,2967.35,1
+ID02010,Masculino,0.0,No,No,41.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Tarjeta de credito (automatico),25.25,996.45,0
+ID06368,Femenino,0.0,Si,Si,19.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,20.15,387.7,0
+ID00434,Femenino,0.0,No,No,35.0,Si,Si,Fibra Optica,No,No,No,Si,No,No,Mes a mes,No,Transferencia bancaria (automatico),80.05,2835.9,0
+ID01422,Femenino,0.0,No,No,54.0,Si,No,Fibra Optica,Si,Si,No,No,Si,Si,Anual,Si,Transferencia bancaria (automatico),100.05,5299.65,0
+ID04562,Masculino,1.0,Si,No,29.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,94.45,2653.65,1
+ID04269,Femenino,1.0,No,No,14.0,Si,Si,Fibra Optica,No,Si,Si,No,Si,Si,Mes a mes,Si,Checke por correo,104.85,1531.4,1
+ID00703,Masculino,0.0,Si,Si,69.0,Si,Si,Fibra Optica,No,No,Si,No,No,No,Bianual,Si,Transferencia bancaria (automatico),79.2,5420.65,0
+ID02892,Femenino,0.0,Si,No,37.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,Si,Tarjeta de credito (automatico),,717.5,0
+ID06173,Femenino,0.0,No,No,15.0,Si,Si,DSL,No,No,No,No,No,No,Mes a mes,No,Checke electronico,48.85,631.4,0
+ID03834,Masculino,0.0,No,No,4.0,Si,No,DSL,No,No,No,No,No,Si,Mes a mes,Si,Checke por correo,55.9,238.5,0
+ID00505,Masculino,1.0,No,No,52.0,No,Sin servicio telefonico,DSL,Si,No,No,No,Si,Si,Mes a mes,Si,Transferencia bancaria (automatico),48.8,2555.05,0
+ID04898,Masculino,0.0,Si,No,65.0,Si,Si,Fibra Optica,Si,No,Si,No,Si,Si,Mes a mes,Si,Checke por correo,104.25,6812.95,0
+ID00199,Femenino,0.0,No,No,5.0,Si,No,DSL,No,No,No,No,No,No,Mes a mes,Si,Transferencia bancaria (automatico),44.05,202.15,0
+ID06370,Femenino,0.0,No,Si,19.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,20.5,398.55,0
+ID06185,Masculino,0.0,No,No,16.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,Si,Checke electronico,80.55,1248.9,0
+ID00449,Femenino,0.0,No,No,38.0,Si,Si,DSL,No,Si,No,Si,No,Si,Mes a mes,No,Transferencia bancaria (automatico),68.15,2656.3,0
+ID05285,Masculino,0.0,No,No,44.0,No,Sin servicio telefonico,DSL,Si,No,Si,No,Si,Si,Anual,Si,Checke por correo,54.0,2440.25,0
+ID02147,Femenino,0.0,Si,Si,45.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,Si,Tarjeta de credito (automatico),24.65,1138.8,0
+ID04334,Femenino,1.0,Si,No,17.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,92.55,1614.7,0
+ID00050,Femenino,0.0,Si,Si,16.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,Si,Transferencia bancaria (automatico),79.95,1267.95,0
+ID06453,Femenino,0.0,Si,Si,52.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,23.05,1255.1,0
+ID03563,Masculino,0.0,No,No,1.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,Si,Checke por correo,79.15,79.15,1
+ID01118,Femenino,0.0,Si,No,72.0,Si,Si,Fibra Optica,Si,Si,Si,Si,Si,Si,Bianual,Si,Transferencia bancaria (automatico),115.55,,0
+ID04923,Masculino,0.0,No,Si,41.0,Si,No,Fibra Optica,Si,Si,Si,Si,Si,Si,Bianual,Si,Checke por correo,111.15,4507.15,0
+ID01086,Masculino,0.0,Si,No,72.0,Si,Si,DSL,No,Si,Si,Si,Si,Si,Bianual,Si,Transferencia bancaria (automatico),85.45,6227.5,0
+ID06704,Femenino,0.0,Si,No,72.0,Si,No,DSL,Si,Si,Si,Si,Si,Si,Bianual,No,Checke electronico,85.1,6155.4,0
+ID00284,Masculino,1.0,No,No,14.0,Si,No,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,No,Transferencia bancaria (automatico),90.45,1266.1,1
+ID06374,Femenino,0.0,No,Si,21.0,No,Sin servicio telefonico,DSL,Si,Si,Si,Si,Si,No,Bianual,No,Checke electronico,53.15,1183.2,0
+ID03472,Masculino,1.0,No,No,1.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,No,Checke por correo,69.1,69.1,1
+ID05462,Masculino,0.0,No,Si,1.0,Si,No,DSL,No,No,No,Si,No,No,Mes a mes,Si,Checke electronico,49.9,49.9,1
+ID06990,Femenino,0.0,No,No,40.0,Si,Si,DSL,No,No,Si,Si,Si,Si,Anual,Si,Checke electronico,80.75,3208.65,0
+ID05406,Masculino,0.0,Si,No,66.0,Si,Si,Fibra Optica,No,Si,Si,No,No,Si,Anual,No,Checke por correo,95.3,6273.4,0
+ID02686,Masculino,0.0,Si,Si,18.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Tarjeta de credito (automatico),20.05,345.9,0
+ID02933,Masculino,0.0,No,No,48.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Tarjeta de credito (automatico),,1004.5,0
+ID06649,Femenino,0.0,No,No,60.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,25.0,1505.05,0
+ID03887,Masculino,0.0,Si,No,4.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,100.2,420.2,1
+ID02239,Masculino,0.0,Si,Si,68.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Tarjeta de credito (automatico),25.4,1620.2,0
+ID01741,Femenino,0.0,No,No,6.0,Si,No,DSL,No,No,No,Si,No,No,Mes a mes,Si,Tarjeta de credito (automatico),50.8,288.05,1
+ID01664,Femenino,0.0,No,No,1.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Tarjeta de credito (automatico),,19.9,0
+ID02568,Femenino,0.0,Si,No,71.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Tarjeta de credito (automatico),24.75,1836.9,0
+ID02713,Masculino,0.0,No,Si,30.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Tarjeta de credito (automatico),25.35,723.3,0
+ID06555,Masculino,0.0,Si,No,14.0,Si,No,DSL,No,Si,Si,Si,Si,Si,Bianual,No,Checke electronico,81.95,1181.75,0
+ID03782,Masculino,0.0,No,No,3.0,Si,Si,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke por correo,76.95,228.4,1
+ID04679,Masculino,1.0,No,No,37.0,Si,Si,Fibra Optica,No,No,Si,No,Si,Si,Mes a mes,Si,Checke por correo,101.1,3744.05,1
+ID06603,Femenino,0.0,No,No,41.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,20.65,835.15,0
+ID00019,Femenino,0.0,Si,Si,6.0,Si,Si,DSL,No,No,No,No,No,No,Mes a mes,Si,Transferencia bancaria (automatico),48.95,273.25,0
+ID03263,Femenino,0.0,Si,Si,23.0,Si,Si,Fibra Optica,No,No,No,No,No,Si,Mes a mes,No,Checke por correo,85.6,1868.4,0
+ID02130,Femenino,0.0,Si,Si,30.0,Si,No,DSL,No,Si,Si,Si,Si,Si,Bianual,No,Tarjeta de credito (automatico),80.8,2369.3,0
+ID03048,Masculino,0.0,No,No,69.0,Si,Si,Fibra Optica,No,Si,No,Si,Si,Si,Anual,Si,Tarjeta de credito (automatico),104.7,,1
+ID03507,Femenino,0.0,No,No,1.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke por correo,70.25,70.25,1
+ID06252,Femenino,0.0,No,No,25.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Checke electronico,,461.3,0
+ID00464,Masculino,0.0,Si,No,42.0,No,Sin servicio telefonico,DSL,No,No,No,No,No,No,Mes a mes,Si,Transferencia bancaria (automatico),25.1,1097.15,0
+ID04289,Femenino,1.0,No,No,15.0,Si,Si,Fibra Optica,No,Si,No,No,No,Si,Mes a mes,No,Checke por correo,89.85,1424.95,1
+ID01433,Femenino,0.0,No,No,57.0,No,Sin servicio telefonico,DSL,Si,No,Si,Si,No,No,Anual,Si,Transferencia bancaria (automatico),41.1,2258.25,0
+ID02320,Femenino,0.0,Si,Si,72.0,Si,Si,DSL,Si,Si,Si,Si,No,No,Bianual,Si,Tarjeta de credito (automatico),70.45,5165.7,0
+ID05315,Femenino,0.0,Si,No,50.0,Si,Si,Fibra Optica,Si,Si,No,Si,Si,Si,Anual,No,Checke por correo,108.55,5610.7,1
+ID06199,Femenino,0.0,No,No,18.0,Si,No,DSL,No,No,Si,No,No,No,Mes a mes,Si,Checke electronico,50.0,892.7,0
+ID04976,Femenino,0.0,No,No,25.0,Si,Si,Fibra Optica,No,Si,Si,Si,Si,Si,Bianual,No,Checke por correo,108.9,2809.05,0
+ID00822,Femenino,0.0,No,No,24.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Transferencia bancaria (automatico),25.15,553,0
+ID03135,Femenino,0.0,Si,Si,4.0,Si,Si,Fibra Optica,No,No,No,No,No,Si,Mes a mes,Si,Checke por correo,85.95,381.3,1
+ID05907,Masculino,0.0,Si,No,2.0,Si,No,DSL,No,Si,No,Si,No,Si,Mes a mes,Si,Checke electronico,64.2,143.65,0
+ID04727,Femenino,1.0,No,No,42.0,Si,Si,Fibra Optica,No,No,No,No,Si,No,Mes a mes,Si,Checke por correo,84.65,3541.35,1
+ID03957,Masculino,1.0,Si,No,6.0,Si,Si,Fibra Optica,No,No,Si,No,No,No,Mes a mes,Si,Checke por correo,80.8,457.1,0
+ID05207,Femenino,1.0,Si,No,12.0,Si,No,DSL,Si,No,Si,Si,Si,Si,Anual,Si,Checke por correo,79.2,943.85,0
+ID06341,Femenino,0.0,Si,Si,7.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,,144.15,0
+ID01323,Femenino,0.0,No,No,29.0,No,Sin servicio telefonico,DSL,Si,Si,No,Si,No,No,Anual,No,Transferencia bancaria (automatico),39.5,1082.75,0
+ID01192,Femenino,0.0,No,Si,43.0,Si,No,Fibra Optica,Si,Si,No,Si,Si,Si,Anual,Si,Transferencia bancaria (automatico),106.0,4532.3,0
+ID03133,Femenino,0.0,Si,Si,4.0,Si,No,Fibra Optica,No,No,Si,No,No,No,Mes a mes,Si,Checke por correo,73.75,325.45,1
+ID02246,Masculino,0.0,Si,Si,68.0,Si,No,Fibra Optica,Si,Si,Si,No,Si,Si,Bianual,Si,Tarjeta de credito (automatico),105.25,,0
+ID04994,Masculino,0.0,Si,No,50.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke por correo,,1013.2,0
+ID06612,Femenino,0.0,No,No,47.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,20.15,1046.2,0
+ID05952,Masculino,0.0,No,No,3.0,Si,No,DSL,No,No,No,Si,No,No,Mes a mes,Si,Checke electronico,50.5,147.75,0
+ID02084,Masculino,1.0,Si,No,59.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Tarjeta de credito (automatico),93.85,5574.75,1
+ID06090,Masculino,0.0,No,No,9.0,Si,No,No,,,,,,,Mes a mes,Si,Checke electronico,,185.6,1
+ID00407,Masculino,0.0,No,No,30.0,Si,Si,Fibra Optica,Si,Si,Si,Si,No,No,Mes a mes,Si,Transferencia bancaria (automatico),95.0,2852.4,0
+ID05712,Femenino,0.0,No,No,1.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke electronico,20.25,20.25,0
+ID03794,Masculino,1.0,No,No,3.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,Si,Checke por correo,81.35,233.7,1
+ID00958,Femenino,1.0,Si,No,65.0,Si,No,Fibra Optica,No,Si,Si,Si,Si,Si,Bianual,Si,Transferencia bancaria (automatico),105.85,6725.5,0
+ID04574,Femenino,0.0,No,No,30.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,100.2,2983.8,1
+ID05002,Masculino,0.0,No,No,55.0,Si,No,DSL,Si,No,Si,Si,No,No,Bianual,Si,Checke por correo,59.2,3175.85,0
+ID06065,Femenino,0.0,No,No,7.0,Si,No,DSL,No,No,No,Si,Si,No,Mes a mes,Si,Checke electronico,59.5,415.95,1
+ID00639,Masculino,0.0,Si,Si,59.0,Si,Si,Fibra Optica,No,No,Si,No,Si,Si,Bianual,Si,Transferencia bancaria (automatico),99.5,5861.75,0
+ID06767,Femenino,0.0,Si,Si,23.0,Si,No,DSL,Si,Si,Si,Si,No,No,Anual,Si,Checke electronico,66.25,1533.8,0
+ID06719,Femenino,0.0,No,Si,7.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Checke electronico,20.05,96.8,0
+ID02219,Masculino,0.0,Si,Si,66.0,No,Sin servicio telefonico,DSL,No,No,No,Si,Si,Si,Bianual,No,Tarjeta de credito (automatico),50.55,3364.55,0
+ID02529,Femenino,0.0,Si,No,68.0,Si,Si,Fibra Optica,Si,Si,Si,No,Si,Si,Bianual,Si,Tarjeta de credito (automatico),110.8,,0
+ID03379,Masculino,0.0,Si,Si,70.0,Si,Si,Fibra Optica,Si,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,106.05,,0
+ID06861,Masculino,0.0,No,No,9.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,Si,Checke electronico,20.15,163.7,0
+ID04761,Masculino,0.0,Si,No,46.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Checke por correo,,851.2,0
+ID02029,Masculino,0.0,No,No,45.0,Si,No,DSL,Si,No,No,No,No,No,Mes a mes,Si,Tarjeta de credito (automatico),50.9,2298.55,0
+ID06306,Masculino,0.0,No,No,44.0,Si,Si,Fibra Optica,No,No,Si,No,No,Si,Mes a mes,Si,Checke electronico,90.4,4063,0
+ID03624,Masculino,1.0,No,No,2.0,Si,No,No,,,,,,,Mes a mes,No,Checke por correo,,37.2,0
+ID04241,Masculino,0.0,No,No,13.0,Si,Si,Fibra Optica,No,No,No,Si,Si,Si,Mes a mes,No,Checke por correo,100.75,1313.25,0
+ID04335,Femenino,0.0,Si,No,17.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,No,Checke por correo,92.6,1579.7,0
+ID03822,Femenino,0.0,Si,No,4.0,No,Sin servicio telefonico,DSL,Si,No,No,No,No,No,Mes a mes,Si,Checke por correo,29.05,129.6,0
+ID00953,Femenino,0.0,Si,No,65.0,Si,No,DSL,No,No,No,Si,Si,No,Bianual,Si,Transferencia bancaria (automatico),59.8,3808.2,0
+ID00308,Femenino,0.0,No,No,17.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Transferencia bancaria (automatico),,340.35,0
+ID01285,Femenino,0.0,No,No,14.0,Si,No,DSL,No,No,No,Si,No,Si,Anual,No,Transferencia bancaria (automatico),59.1,772.85,0
+ID01798,Masculino,0.0,No,No,10.0,Si,Si,Fibra Optica,No,No,No,No,Si,No,Mes a mes,Si,Tarjeta de credito (automatico),86.05,834.1,1
+ID02271,Femenino,0.0,Si,Si,70.0,Si,No,DSL,No,Si,Si,Si,Si,Si,Bianual,Si,Tarjeta de credito (automatico),80.4,5717.85,0
+ID03745,Masculino,0.0,No,No,3.0,No,Sin servicio telefonico,DSL,No,No,No,Si,No,No,Mes a mes,No,Checke por correo,30.4,82.15,0
+ID04705,Femenino,1.0,No,No,40.0,Si,No,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,91.55,3673.6,0
+ID00757,Femenino,0.0,Si,Si,72.0,No,Sin servicio telefonico,DSL,No,Si,No,Si,Si,Si,Bianual,No,Transferencia bancaria (automatico),53.65,3784,0
+ID02050,Masculino,0.0,Si,No,49.0,Si,Si,Fibra Optica,Si,Si,No,No,Si,No,Mes a mes,Si,Tarjeta de credito (automatico),93.85,4733.1,0
+ID00134,Masculino,0.0,No,No,1.0,Si,No,DSL,No,No,No,No,No,No,Mes a mes,No,Transferencia bancaria (automatico),46.2,46.2,1
+ID03499,Masculino,0.0,No,No,1.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke por correo,70.05,70.05,1
+ID02056,Masculino,0.0,No,No,51.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,No,Tarjeta de credito (automatico),81.0,4085.75,0
+ID00542,Femenino,1.0,No,No,71.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Transferencia bancaria (automatico),99.65,6951.15,0
+ID03110,Masculino,0.0,No,Si,1.0,Si,Si,Fibra Optica,No,No,Si,No,Si,Si,Mes a mes,Si,Checke por correo,99.75,99.75,1
+ID05054,Masculino,0.0,Si,No,71.0,Si,No,Fibra Optica,No,Si,Si,Si,Si,Si,Bianual,Si,Checke por correo,105.25,,0
+ID01012,Femenino,0.0,No,No,70.0,Si,Si,DSL,Si,Si,Si,Si,Si,Si,Bianual,No,Transferencia bancaria (automatico),89.75,6367.2,0
+ID04311,Masculino,0.0,Si,No,16.0,Si,Si,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke por correo,75.4,1189.4,0
+ID05984,Masculino,0.0,No,No,4.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Checke electronico,25.25,101.9,0
+ID00583,Femenino,0.0,Si,Si,36.0,No,Sin servicio telefonico,DSL,Si,No,Si,Si,No,No,Bianual,No,Transferencia bancaria (automatico),40.65,1547.35,0
+ID06028,Femenino,0.0,No,No,5.0,Si,No,Fibra Optica,No,No,No,Si,No,No,Mes a mes,Si,Checke electronico,75.65,399.45,0
+ID01673,Femenino,0.0,No,No,1.0,No,Sin servicio telefonico,DSL,No,Si,No,No,No,No,Mes a mes,No,Tarjeta de credito (automatico),29.95,29.95,1
+ID06770,Masculino,0.0,Si,Si,24.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Checke electronico,20.25,439.75,0
+ID00040,Femenino,0.0,Si,Si,12.0,Si,No,DSL,No,No,Si,No,Si,No,Mes a mes,Si,Transferencia bancaria (automatico),58.35,740.55,0
+ID05960,Masculino,0.0,No,No,3.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke electronico,70.3,220.4,0
+ID01024,Masculino,0.0,No,No,71.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,Si,Transferencia bancaria (automatico),,1355.1,0
+ID02266,Femenino,0.0,Si,Si,70.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Tarjeta de credito (automatico),,1378.75,0
+ID05961,Femenino,0.0,No,No,3.0,Si,No,Fibra Optica,No,No,Si,No,No,No,Mes a mes,Si,Checke electronico,74.75,238.1,0
+ID03179,Femenino,0.0,Si,Si,10.0,Si,Si,Fibra Optica,Si,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,100.25,1064.65,1
+ID03206,Femenino,0.0,Si,Si,14.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,No,Checke por correo,70.2,1046.5,0
+ID00934,Masculino,,Si,No,63.0,Si,No,Fibra Optica,Si,No,Si,No,Si,Si,Bianual,No,Transferencia bancaria (automatico),99.7,6330.4,0
+ID05522,Femenino,0.0,Si,Si,5.0,Si,No,Fibra Optica,No,Si,No,Si,Si,Si,Mes a mes,Si,Checke electronico,99.15,465.05,1
+ID06647,Masculino,0.0,Si,No,60.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,,1258.15,0
+ID03801,Masculino,0.0,No,No,3.0,Si,No,Fibra Optica,No,Si,Si,No,No,Si,Mes a mes,No,Checke por correo,90.4,268.45,0
+ID04606,Masculino,0.0,No,No,32.0,Si,No,Fibra Optica,No,No,No,Si,Si,Si,Mes a mes,Si,Checke por correo,96.2,3183.4,1
+ID00843,Femenino,0.0,Si,No,42.0,Si,Si,DSL,Si,No,Si,Si,Si,Si,Bianual,No,Transferencia bancaria (automatico),84.35,3571.6,0
+ID01519,Masculino,1.0,Si,No,72.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Anual,Si,Transferencia bancaria (automatico),97.25,,0
+ID03606,Femenino,0.0,No,No,1.0,Si,No,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,No,Checke por correo,90.55,90.55,1
+ID03895,Masculino,0.0,No,No,5.0,Si,No,DSL,No,Si,No,No,No,No,Mes a mes,Si,Checke por correo,51.35,262.3,0
+ID00962,Femenino,0.0,No,No,66.0,Si,Si,DSL,Si,Si,Si,Si,Si,Si,Bianual,Si,Transferencia bancaria (automatico),90.05,5965.95,0
+ID06909,Masculino,0.0,No,No,18.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,No,Checke electronico,23.75,424.5,0
+ID03189,Masculino,0.0,Si,Si,12.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke por correo,,239,0
+ID03833,Femenino,0.0,No,No,4.0,Si,No,DSL,Si,Si,No,No,No,No,Mes a mes,No,Checke por correo,55.2,220.65,0
+ID04786,Femenino,1.0,Si,No,48.0,Si,Si,Fibra Optica,Si,Si,Si,Si,Si,Si,Mes a mes,No,Checke por correo,117.45,5438.9,1
+ID06930,Masculino,0.0,No,No,24.0,No,Sin servicio telefonico,DSL,Si,No,No,No,Si,Si,Anual,Si,Checke electronico,50.6,1288.75,0
+ID00771,Masculino,0.0,Si,Si,72.0,Si,Si,DSL,Si,Si,Si,Si,No,No,Bianual,No,Transferencia bancaria (automatico),72.1,5016.65,0
+ID01486,Femenino,1.0,Si,No,66.0,Si,Si,Fibra Optica,No,Si,Si,Si,Si,Si,Anual,Si,Transferencia bancaria (automatico),108.1,,0
+ID06831,Masculino,0.0,Si,Si,57.0,Si,No,DSL,Si,Si,No,Si,No,No,Anual,No,Checke electronico,59.6,3509.4,0
+ID01056,Masculino,0.0,Si,No,72.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Transferencia bancaria (automatico),,1304.8,0
+ID00972,Femenino,0.0,No,No,68.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Transferencia bancaria (automatico),,1441.65,0
+ID04592,Femenino,1.0,No,No,31.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,99.95,3186.65,1
+ID05655,Masculino,0.0,No,No,1.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Checke electronico,,19.1,0
+ID01044,Masculino,0.0,No,No,71.0,Si,Si,Fibra Optica,No,No,Si,Si,No,No,Bianual,Si,Transferencia bancaria (automatico),86.4,6172,0
+ID04426,Femenino,0.0,No,No,22.0,No,Sin servicio telefonico,DSL,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,50.35,1098.85,0
+ID06514,Femenino,0.0,Si,Si,69.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Checke electronico,,1346.2,0
+ID05271,Femenino,0.0,No,No,41.0,Si,Si,DSL,No,No,Si,Si,No,Si,Anual,Si,Checke por correo,68.6,2877.05,0
+ID04744,Masculino,1.0,Si,No,43.0,Si,Si,Fibra Optica,No,Si,No,No,Si,Si,Mes a mes,Si,Checke por correo,101.0,4388.4,1
+ID06193,Femenino,0.0,No,No,18.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke electronico,,389.25,0
+ID02871,Femenino,0.0,No,No,30.0,Si,No,Fibra Optica,No,No,No,Si,Si,Si,Anual,Si,Tarjeta de credito (automatico),94.4,2638.1,0
+ID05033,Masculino,1.0,No,No,67.0,Si,No,Fibra Optica,Si,Si,No,Si,Si,Si,Bianual,Si,Checke por correo,105.05,,0
+ID00098,Femenino,0.0,Si,Si,48.0,No,Sin servicio telefonico,DSL,No,No,No,Si,No,No,Mes a mes,Si,Transferencia bancaria (automatico),29.5,1423.05,0
+ID06588,Femenino,0.0,No,No,36.0,No,Sin servicio telefonico,DSL,Si,Si,Si,Si,No,Si,Bianual,Si,Checke electronico,53.1,1901.25,0
+ID05270,Masculino,0.0,No,No,41.0,No,Sin servicio telefonico,DSL,No,No,Si,No,Si,Si,Anual,Si,Checke por correo,51.35,2075.1,0
+ID06009,Masculino,0.0,Si,No,5.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Checke electronico,,126.05,1
+ID01399,Masculino,0.0,Si,No,49.0,Si,No,Fibra Optica,No,No,Si,Si,Si,Si,Anual,Si,Transferencia bancaria (automatico),99.25,4920.8,0
+ID05632,Femenino,1.0,Si,Si,34.0,Si,Si,Fibra Optica,No,Si,No,No,No,No,Mes a mes,Si,Checke electronico,79.6,2718.3,1
+ID04585,Femenino,1.0,Si,No,31.0,Si,Si,Fibra Optica,No,No,No,No,No,Si,Mes a mes,Si,Checke por correo,84.85,2633.4,0
+ID02448,Femenino,0.0,Si,No,59.0,Si,No,No,,,,,,,Bianual,No,Tarjeta de credito (automatico),,1057.85,0
+ID05230,Masculino,1.0,Si,No,27.0,Si,Si,Fibra Optica,Si,No,Si,No,No,No,Anual,Si,Checke por correo,85.9,2220.1,0
+ID05829,Masculino,0.0,No,No,1.0,Si,No,Fibra Optica,No,No,No,No,No,No,Mes a mes,No,Checke electronico,70.6,70.6,1
+ID03355,Masculino,0.0,Si,Si,53.0,Si,Si,DSL,Si,No,Si,Si,Si,Si,Mes a mes,No,Checke por correo,85.7,4616.1,0
+ID02494,Masculino,0.0,Si,No,66.0,No,Sin servicio telefonico,DSL,Si,Si,Si,Si,Si,No,Bianual,Si,Tarjeta de credito (automatico),56.6,3789.2,0
+ID05514,Femenino,0.0,Si,Si,5.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke electronico,24.3,132.25,0
+ID05472,Femenino,0.0,No,Si,1.0,Si,No,Fibra Optica,Si,No,No,No,No,No,Mes a mes,Si,Checke electronico,73.6,73.6,1
+ID00520,Femenino,1.0,Si,No,57.0,Si,Si,Fibra Optica,No,Si,Si,No,No,Si,Mes a mes,No,Transferencia bancaria (automatico),94.0,5438.95,0
+ID01387,Femenino,0.0,Si,No,47.0,Si,No,DSL,Si,No,Si,No,Si,No,Anual,Si,Transferencia bancaria (automatico),66.05,3021.45,0
+ID00534,Masculino,1.0,Si,No,66.0,Si,Si,Fibra Optica,No,No,No,Si,Si,Si,Mes a mes,Si,Transferencia bancaria (automatico),100.05,6871.9,1
+ID02473,Masculino,0.0,No,No,63.0,Si,Si,DSL,Si,No,Si,Si,No,Si,Bianual,Si,Tarjeta de credito (automatico),71.9,4479.2,0
+ID05390,Masculino,1.0,Si,No,62.0,Si,Si,Fibra Optica,No,Si,Si,No,Si,Si,Anual,Si,Checke por correo,103.75,6383.35,1
+ID04276,Masculino,0.0,No,No,15.0,Si,Si,DSL,No,No,No,No,No,No,Mes a mes,No,Checke por correo,51.55,765.5,1
+ID02116,Femenino,0.0,Si,Si,12.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Bianual,No,Tarjeta de credito (automatico),20.3,224.5,0
+ID04167,Femenino,0.0,Si,No,11.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,94.0,1078.9,1
+ID06445,Femenino,0.0,No,Si,48.0,Si,No,Fibra Optica,No,Si,Si,Si,Si,No,Bianual,Si,Checke electronico,95.5,4627.85,1
+ID05843,Femenino,1.0,No,No,1.0,Si,Si,Fibra Optica,No,No,No,No,No,No,Mes a mes,Si,Checke electronico,74.45,74.45,1
+ID03213,Femenino,0.0,Si,Si,15.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke por correo,25.25,394.85,0
+ID04600,Masculino,1.0,Si,No,32.0,Si,Si,Fibra Optica,No,No,No,No,No,Si,Mes a mes,Si,Checke por correo,85.0,2642.05,1
+ID06878,Femenino,0.0,No,No,12.0,Si,Si,DSL,No,No,No,Si,Si,Si,Anual,Si,Checke electronico,75.85,854.45,0
+ID01239,Masculino,0.0,Si,Si,62.0,Si,No,Fibra Optica,Si,Si,No,No,No,No,Anual,Si,Transferencia bancaria (automatico),81.45,4983.05,0
+ID06741,Masculino,0.0,Si,Si,15.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,Si,Checke electronico,,239.75,0
+ID05787,Masculino,,No,No,1.0,Si,No,DSL,No,No,No,No,No,No,Mes a mes,No,Checke electronico,45.6,45.6,0
+ID04569,Femenino,,Si,No,30.0,Si,Si,Fibra Optica,No,No,No,No,No,Si,Mes a mes,Si,Checke por correo,85.0,2624.25,1
+ID05991,Femenino,0.0,No,No,4.0,Si,No,DSL,No,No,No,No,No,No,Mes a mes,Si,Checke electronico,46.0,193.6,1
+ID01485,Femenino,1.0,Si,No,66.0,Si,Si,Fibra Optica,No,No,Si,Si,Si,Si,Anual,Si,Transferencia bancaria (automatico),105.95,6975.25,1
+ID02951,Masculino,0.0,No,No,51.0,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Anual,Si,Tarjeta de credito (automatico),24.6,1266.4,0
+ID03237,Masculino,0.0,No,Si,19.0,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Checke por correo,20.0,377.55,0
+ID05893,Femenino,0.0,No,No,2.0,Si,No,DSL,No,Si,No,No,No,No,Mes a mes,No,Checke electronico,49.2,103.7,0
+ID01317,Femenino,0.0,No,No,26.0,Si,No,Fibra Optica,Si,No,Si,Si,No,No,Anual,Si,Transferencia bancaria (automatico),87.15,2274.1,0
+ID05563,Femenino,1.0,Si,Si,12.0,No,Sin servicio telefonico,DSL,No,No,No,Si,No,No,Mes a mes,Si,Checke electronico,29.3,355.9,0
+ID05611,Femenino,0.0,Si,Si,23.0,Si,No,Fibra Optica,Si,Si,No,Si,No,No,Mes a mes,No,Checke electronico,84.4,1936.85,0
+ID05481,Masculino,0.0,Si,Si,2.0,Si,Si,DSL,Si,No,No,No,No,No,Mes a mes,No,Checke electronico,56.7,113.55,1
+ID03954,Masculino,0.0,No,No,6.0,Si,No,Fibra Optica,Si,Si,No,No,No,No,Mes a mes,Si,Checke por correo,78.95,494.95,0
+ID03804,Masculino,1.0,Si,No,3.0,Si,Si,Fibra Optica,No,No,No,No,Si,Si,Mes a mes,Si,Checke por correo,94.6,279.55,1
+ID00648,Femenino,0.0,Si,Si,61.0,Si,Si,Fibra Optica,Si,Si,Si,Si,Si,Si,Bianual,No,Transferencia bancaria (automatico),115.1,,0
+ID05820,Masculino,0.0,No,No,1.0,Si,Si,DSL,No,No,Si,Si,No,No,Mes a mes,No,Checke electronico,62.05,62.05,1
